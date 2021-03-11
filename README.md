@@ -21,7 +21,7 @@ Zak Travel adalah sebuah layanan pemesanan tiket secara online ke berbagai macam
 1. Laravel (on progress)
 
 ## What the App look like
-![image](https://github.com/Bahrul-Rozak/Home-zakTravel/blob/master/Screenshot.png)
+![image](https://github.com/Bahrul-Rozak/Al-Aqsa.github.io/blob/master/alaqsa.png)
 
 
 
